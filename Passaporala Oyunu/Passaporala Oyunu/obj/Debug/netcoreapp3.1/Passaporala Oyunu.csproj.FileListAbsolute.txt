@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\bin\Debug\netcoreapp3.1\Passaporala Oyunu.exe
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\bin\Debug\netcoreapp3.1\Passaporala Oyunu.deps.json
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\bin\Debug\netcoreapp3.1\Passaporala Oyunu.runtimeconfig.json
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\bin\Debug\netcoreapp3.1\Passaporala Oyunu.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\bin\Debug\netcoreapp3.1\Passaporala Oyunu.dll
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\bin\Debug\netcoreapp3.1\Passaporala Oyunu.pdb
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala_Oyunu.Form1.resources
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.AssemblyInfo.cs
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.dll
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.pdb
+C:\Users\ACER\Desktop\c# PROJE\Passaporala Oyunu\Passaporala Oyunu\obj\Debug\netcoreapp3.1\Passaporala Oyunu.genruntimeconfig.cache
